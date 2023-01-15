@@ -1,0 +1,4 @@
+PatientId,Name,age,gender,phoneNumber,Date,Time
+1,khaled,23,M,0786223811,2023-01-14,09:00
+2,nour,25,F,0771111222,2023-01-14,11:00
+3,saleem,23,m,0781121811,2023-01-14,15:00
